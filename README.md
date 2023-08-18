@@ -2,14 +2,26 @@
 <!--I am currently working in a junior role on a contractual basis for HYVE [link!], a revolutionary fitness gym and wellbeing centre.  
 I made the decision to study, change and improve my life 
 
-career change, 
+career changer, 
+
+Junior Full Stack Developer with commercial experience and a Diploma in Web Application Development from Code
+Institute.  
+Proficient in HTML, CSS, JavaScript, React and Python and also studied Game Design at University.  
+I have over 10 years of experience working within a range of roles - with customer service and providing a high-quality product being a
+focus.  
+I have held supervisory and team leader roles for hugely successful companies in the UK and Australia.  
+
+I am passionate, driven and honest and will instil this in all that I do. I am eager to join an exciting development team within the
+tech industry and to learn, contribute and make a positive impact.??????????
+
+I am now seeking full-time work in a role where I can grow, contribute and make a positive impact.??????????
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhysmoggs/).
 
 Please take some time to look around and contact me here:  
 add link to linkedin and portfolio:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhysmoggs/).
+
 --!>
 
 
@@ -65,7 +77,7 @@ Here are some ideas to get you started:
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 
   Version Control:  
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
