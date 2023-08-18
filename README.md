@@ -2,10 +2,10 @@
 
 I am a Full Stack Developer with commercial experience in a junior role for [HYVE](https://www.trainhyve.com/), a revolutionary gym and wellbeing centre.  
 
-Having graduated with a Diploma in Web Application Development from Code Institute, I am now proudly and happily a career changer.  
+Having graduated with a Diploma in Web Application Development from Code Institute, I am happily a career changer.  
 Previously, I held supervisory and team leader roles for hugely successful companies in the UK and Australia and have over 10 years of experience working within the telecommunications, energy and financial sectors.  
 
-I have built 4 main projects (with a portfolio to soon follow) and have collaborated with both personal and professional work along with a Hackathon - a finance budget calculator and currency converter.
+I have built 4 main projects (with a portfolio to soon follow) and have collaborated on both personal and professional projects along with a Hackathon - a finance budget calculator and currency converter.
 
 I am currently studying towards certification as an AWS Cloud Practitioner & Solutions Architect and have previously studied Game Design at University.  
 
