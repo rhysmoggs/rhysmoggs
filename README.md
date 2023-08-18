@@ -1,28 +1,17 @@
-### Hi there 👋 I'm Rhys Morgan, a Full Stack Software Developer.  
-<!--I am currently working in a junior role on a contractual basis for HYVE [link!], a revolutionary fitness gym and wellbeing centre.  
-I made the decision to study, change and improve my life 
+### Rhys Morgan 👋 | Full Stack Software Developer.  
 
-career changer, 
+I am a Full Stack Developer with commercial experience in a junior role for [HYVE](https://www.trainhyve.com/), a revolutionary gym and wellbeing centre.  
 
-Junior Full Stack Developer with commercial experience and a Diploma in Web Application Development from Code
-Institute.  
-Proficient in HTML, CSS, JavaScript, React and Python and also studied Game Design at University.  
-I have over 10 years of experience working within a range of roles - with customer service and providing a high-quality product being a
-focus.  
-I have held supervisory and team leader roles for hugely successful companies in the UK and Australia.  
+Having graduated with a Diploma in Web Application Development from Code Institute, I am now proudly and happily a career changer.  
+Previously, I held supervisory and team leader roles for hugely successful companies in the UK and Australia and have over 10 years of experience working within the telecommunications, energy and financial sectors.  
 
-I am passionate, driven and honest and will instil this in all that I do. I am eager to join an exciting development team within the
-tech industry and to learn, contribute and make a positive impact.??????????
+I have built 4 main projects (with a portfolio to soon follow) and have collaborated with both personal and professional work along with a Hackathon - a finance budget calculator and currency converter.
 
-I am now seeking full-time work in a role where I can grow, contribute and make a positive impact.??????????
-
-
+I am currently studying towards certification as an AWS Cloud Practitioner & Solutions Architect and have previously studied Game Design at University.  
 
 Please take some time to look around and contact me here:  
-add link to linkedin and portfolio:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhysmoggs/).
-
---!>
+<!-- add link to portfolio:  -->
 
 
 <!--
@@ -30,22 +19,21 @@ add link to linkedin and portfolio:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... portfolio, React? building some basic
+- 🌱 I’m currently learning ... React
 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   React?
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  Codewars
+
   basics/fundamentals
   AWS exams
   
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-- ⚡ Fun fact: ... / hobbies, other interests. Interest in traditional languages, fluent in Welsh, English, Spanglish, French Duolingo:
+
+- ⚡ Fun fact: ... / hobbies, other interests. Interest in traditional languages, fluent in Welsh, English, studied Spanglish, French. Duolingo link?:
   ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 -->
 
