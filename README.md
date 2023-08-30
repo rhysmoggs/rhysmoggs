@@ -9,8 +9,9 @@ I have built 4 main projects (with a portfolio to soon follow) and have collabor
 
 I am currently studying towards certification as an AWS Cloud Practitioner & Solutions Architect and have previously studied Game Design at University.  
 
-Please take some time to look around and contact me here:  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhysmoggs/).
+Please take some time to look around. My repos can be found further down the page.  
+Contact me here:  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhysmoggs/)
 <!-- add link to portfolio:  -->
 
 
