@@ -2,6 +2,8 @@
 
 I am a Full Stack Developer with commercial experience in a junior role for [HYVE](https://www.trainhyve.com/), a revolutionary gym and wellbeing centre.  
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhysmoggs/)
+
 Having graduated with a Diploma in Web Application Development from Code Institute, I am happily a career changer.  
 Previously, I held supervisory and team leader roles for hugely successful companies in the UK and Australia and have over 10 years of experience working within the telecommunications, energy and financial sectors.  
 
@@ -10,8 +12,7 @@ I have built 4 main projects (with a portfolio to soon follow) and have collabor
 I am currently studying towards certification as an AWS Cloud Practitioner & Solutions Architect and have previously studied Game Design at University.  
 
 Please take some time to look around. My repos can be found further down the page.  
-Contact me here:  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhysmoggs/)
+
 <!-- add link to portfolio:  -->
 
 
