@@ -1,6 +1,6 @@
 ### Rhys Morgan 👋 | Full Stack Software Developer.  
 
-I am a Full Stack Developer with commercial experience in a junior role for [HYVE](https://www.trainhyve.com/), a revolutionary gym and wellbeing centre.  
+I am a Front End Developer with commercial experience in a junior role for [HYVE](https://www.trainhyve.com/), a revolutionary gym and wellbeing centre.  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhysmoggs/)
 [![rhysmoggs.com](https://img.shields.io/badge/rhysmoggs.com-%23F05033.svg?style=for-the-badge&logo=MaterializeCSS&logoColor=white)](https://www.rhysmoggs.com/)
